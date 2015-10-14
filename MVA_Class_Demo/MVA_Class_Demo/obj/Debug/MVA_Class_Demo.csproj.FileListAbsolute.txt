@@ -1,0 +1,15 @@
+C:\Users\LuiZz\Desktop\MVA_Class_Demo\MVA_Class_Demo\bin\Debug\MVA_Class_Demo.exe.config
+C:\Users\LuiZz\Desktop\MVA_Class_Demo\MVA_Class_Demo\obj\Debug\MVA_Class_Demo.csprojResolveAssemblyReference.cache
+C:\Users\LuiZz\Desktop\MVA_Class_Demo\MVA_Class_Demo\obj\Debug\MVA_Class_Demo.Properties.Resources.resources
+C:\Users\LuiZz\Desktop\MVA_Class_Demo\MVA_Class_Demo\obj\Debug\MVA_Class_Demo.csproj.GenerateResource.Cache
+C:\Users\LuiZz\Desktop\MVA_Class_Demo\MVA_Class_Demo\bin\Debug\MVA_Class_Demo.exe
+C:\Users\LuiZz\Desktop\MVA_Class_Demo\MVA_Class_Demo\bin\Debug\MVA_Class_Demo.pdb
+C:\Users\LuiZz\Desktop\MVA_Class_Demo\MVA_Class_Demo\obj\Debug\MVA_Class_Demo.exe
+C:\Users\LuiZz\Desktop\MVA_Class_Demo\MVA_Class_Demo\obj\Debug\MVA_Class_Demo.pdb
+C:\Users\LuiZz\Desktop\MVA_Class_Demo\MVA_Class_Demo\obj\Debug\MVA_Class_Demo.FrmPrincipal.resources
+C:\Users\LuiZz\Desktop\MVA_Class_Demo\MVA_Class_Demo\obj\Debug\MVA_Class_Demo.FrmAddCliente.resources
+C:\Users\LuiZz\Desktop\MVA_Class_Demo\MVA_Class_Demo\obj\Debug\MVA_Class_Demo.FrmAddProducto.resources
+C:\Users\LuiZz\Desktop\MVA_Class_Demo\MVA_Class_Demo\obj\Debug\MVA_Class_Demo.FrmAdministradorC.resources
+C:\Users\LuiZz\Desktop\MVA_Class_Demo\MVA_Class_Demo\obj\Debug\MVA_Class_Demo.FrmClienteC.resources
+C:\Users\LuiZz\Desktop\MVA_Class_Demo\MVA_Class_Demo\obj\Debug\MVA_Class_Demo.FrmProductoC.resources
+C:\Users\LuiZz\Desktop\MVA_Class_Demo\MVA_Class_Demo\obj\Debug\MVA_Class_Demo.FrmAddAdministrador.resources
